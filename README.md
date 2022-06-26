@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gayan Wickramarathna</h1>
 <h3 align="center">A passionate java software engineer from Sri Lanka</h3>
+<img alifn="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **Micro Services**
 
