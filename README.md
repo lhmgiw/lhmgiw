@@ -1,3 +1,4 @@
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.exploreture.com/jobs/java-developer-jobs-at-nielsenqueensbury-new-york-usa">
 <h1 align="center">Hi 👋, I'm Gayan Wickramarathna</h1>
 <h3 align="center">A passionate java software engineer from Sri Lanka</h3>
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
